@@ -13,5 +13,9 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('PyCharm')
     print('hihihihih')
+    print('My first git program')
+    print('And I change it every day')
+    print('Again')
+    print('UFO came and added this line')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
